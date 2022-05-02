@@ -1,6 +1,6 @@
 ### Olá. Prazer, me chamo Jonatha. 👋
 
-- 🧔  Sobre
+ 🧔  Sobre
 - ⏳  19 anos de idade.
 - 💻  Iniciante na programação.
 - 🎓  Estudante de Engenharia da Computação.
