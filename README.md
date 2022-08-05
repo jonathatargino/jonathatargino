@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/102263444/182995786-cd12bfc3-b1be-499c-ad76-968a499fb281.png" min-width="500px" max-width="500px" width="500px" align="right">
 ## Olá. Prazer, me chamo Jonatha. 👋
 
 ### 🧑  Sobre
