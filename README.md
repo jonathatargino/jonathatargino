@@ -4,8 +4,9 @@
 
 ### 🧑  Sobre
 - ⏳  19 anos de idade.
-- 💻  Estudando programação.
-- 🎓  Cursando Ciência da Computação.
+- 💻 Estudando programação.
+- 🎓 Cursando Ciência da Computação.
+- 💡  Focado na evolução
 
 ### Tecnologias
 - 🌐 ![HTML5](https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35)
