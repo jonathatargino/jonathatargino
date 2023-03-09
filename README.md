@@ -20,3 +20,5 @@
 ### Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonatha-targino-51a576235/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathatargino&layout=compact)
+
