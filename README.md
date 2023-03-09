@@ -4,7 +4,7 @@
 
 ### 🧑  Sobre
 - ⏳&nbsp; 19 anos de idade.
-- 🎓&nbsp; Estudante de Ciência da Computação.
+- 🎓&nbsp; Estudante de Ciência da Computação em IFCE Maracanaú.
 - 📚&nbsp; Atualmente estudando TypeScript & React.
 
 ### Tecnologias
