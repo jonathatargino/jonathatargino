@@ -3,9 +3,9 @@
 ## Olá. Prazer, me chamo Jonatha. 👋
 
 ### 🧑  Sobre
+- 💻&nbsp; Desenvolvedor Front-End (React & Next).
 - ⏳&nbsp; 19 anos de idade.
-- 🎓&nbsp; Estudante de Ciência da Computação em IFCE Maracanaú.
-- 📚&nbsp; Atualmente estudando TypeScript & React.
+- 🎓&nbsp; Estudante de Ciência da Computação no IFCE.
 
 ### Tecnologias
 - 🌐&nbsp;
@@ -15,6 +15,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?&style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
+
+- 🛠 &nbsp;
+  ![Node](https://img.shields.io/badge/-node-333333?style=flat&logo=node)
+  ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
 
 - ⚙️&nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
