@@ -29,5 +29,8 @@
 - 💼&nbsp;
 [LinkedIn](https://www.linkedin.com/in/jonatha-targino-51a576235/)
 
+### Figma
+https://www.figma.com/file/Y1ZJWaJ5U5WS8J79870Tyy/Contacts?type=design&node-id=0-1&mode=design
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathatargino&layout=compact&theme=transparent)
 
