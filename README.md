@@ -12,7 +12,13 @@
 <a href="mailto:j.oliveiratargino@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>  
+
+<a href="https://jonathatargino.github.io/">
+  <img src="https://img.shields.io/badge/Blog%20-blue.svg?style=for-the-badge">
+</a>
 </p>
+
+
 
 
 <h4 align="center">Some technologies</h4>
